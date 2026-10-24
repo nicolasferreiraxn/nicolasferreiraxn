@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Software developer · game modder · gaming enthusiast</b><br>
-  I build tools that read what games know — and turn it into something useful for players.
+  I build web apps, APIs and desktop tools — and, every now and then, mods for the games I play.
 </p>
 
 <p align="center">
@@ -25,10 +25,7 @@
 
 ---
 
-## 🔥 Featured: the Enshrouded toolkit
-
-Three open-source tools for **Enshrouded**, built while playing with friends on our dedicated server.
-Every release is built by GitHub Actions from public code.
+## 📂 Featured projects
 
 <table>
   <tr>
